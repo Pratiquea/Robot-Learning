@@ -1,5 +1,5 @@
 # Connect4
-# Pytorch implementation of AlphaZero for Connect4 
+Pytorch implementation of AlphaZero for Connect4 
 
 # How to run
 
